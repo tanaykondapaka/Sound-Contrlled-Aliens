@@ -1,0 +1,40 @@
+body{
+    background-image:url("https://media.istockphoto.com/vectors/space-game-background-neon-night-alien-landscape-vector-id1218836686?k=20&m=1218836686&s=170667a&w=0&h=ldZ-5__isx4ybgZ8Rn2CXOp3_p2XVok3PRayQ8ZaS1U=");
+    background-size: cover;
+    color: white;
+    font-family:calibri;
+}
+.title_div p{
+letter-spacing: 5px;
+font-family: 'Nova Mono', monospace;
+}
+.title_div{
+    background-color: white;
+    color:black;
+    font-family: 'Nova Mono', monospace;
+}
+#start{
+    margin-top: 30px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 100px;
+}
+.div_footer{
+
+    font-family: 'Nova Mono', monospace; 
+background-color: white;
+width: 100%;
+bottom: 0;
+position: fixed;
+height: 50px;
+color:black;
+text-shadow: 5px 5px 10px rgb(0, 0, 0);
+font-size: 30px;
+letter-spacing: 2px;
+}
+#sound,#accuracy{
+    font-size: 25px; 
+    font-family: 'Nova Mono', monospace;
+    text-shadow: 0px 0px 5px white;
+    
+}
